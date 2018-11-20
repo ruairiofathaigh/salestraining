@@ -1,0 +1,5 @@
+projects:
+   default: 359842
+   prod: 359844
+
+stack: scrapy:1.5-py3
